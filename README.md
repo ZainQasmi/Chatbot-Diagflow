@@ -3,6 +3,6 @@
 ## Web Api
 https://bot.dialogflow.com/hardees-chatbot
 
-![alt text](https://imgur.com/a/y5fChRD)
+![](https://i.imgur.com/QhlCfSJ.png)
 
 
